@@ -125,7 +125,7 @@ for (let i = 1; i <= numberNine; i++) {
 
 for (let i = 0; i < evenNine.length; i++) {
         sumNine += evenNine[i];
-    }
+}
 
 document.write('Divisors = ' + divisorNine + '<br>');
 document.write('Evens = ' + evenNine.length + '<br>');
