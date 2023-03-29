@@ -1,4 +1,5 @@
 
+
 // 1 //
 document.write('<br> // 1 // <br>')
 
@@ -143,3 +144,5 @@ for (let i = 1; i <= 10; i++) {
     }
     document.write('<br>');
 }
+
+
